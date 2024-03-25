@@ -1,4 +1,3 @@
-Last metadata expiration check: 0:00:09 ago on Mon Mar 25 13:03:57 2024.
 Installed Packages
 acl.x86_64                                                          2.2.51-15.an7                                                 @System 
 anolis-gpg-keys.noarch                                              7.9-1.an7                                                     @System 
